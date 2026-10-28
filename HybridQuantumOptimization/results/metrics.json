@@ -1,0 +1,13 @@
+{
+  "exact_optimum": 4.0,
+  "ideal_expected_cut": 3.644531,
+  "noisy_expected_cut": 3.333984,
+  "mitigated_expected_cut": 3.443848,
+  "ideal_approximation_ratio": 0.911133,
+  "noisy_approximation_ratio": 0.833496,
+  "mitigated_approximation_ratio": 0.860962,
+  "noise_degradation_ideal_minus_noisy": 0.310547,
+  "mitigation_change_noisy_to_mitigated": 0.109864,
+  "runtime_seconds": 10.2459,
+  "optimizer_iterations": 40
+}
